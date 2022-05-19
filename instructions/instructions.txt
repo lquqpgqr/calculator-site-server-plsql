@@ -1,0 +1,13 @@
+For network setting
+
+go to this location
+C:\oraclexe\app\oracle\product\10.2.0\server\NETWORK\ADMIN
+
+crate a backup file of listener.ora
+and change the listener.ora file as given file.
+
+then restart the OracleXETNSListener service from
+administrativetools/services.
+
+first commit any table on server/site
+to access it from server/site like table_name@link_name.
