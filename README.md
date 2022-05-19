@@ -1,6 +1,4 @@
 # calculator-site-server-plsql
-This is an Calculator app. This app is built using PL/SQL.
-
 Project Name: Postfix Notation with Actual Calculation
 Project Member: Abir
 
@@ -14,6 +12,12 @@ valid char : [(] [)] [+] [-] [*] [/] [any integer number]
 example: (12+8)/10
 
 *How to USE the App*
+
+Run the 'sqlplus.exe' from this location:
+C:\oraclexe\app\oracle\product\10.2.0\server\BIN
+
+First put '@' symbol and,
+Then drag and drop the '.sql' files into the prompt and hit enter.
 
 -----Server-----
 1. First run the 'create_all.sql' and the 'func_and_proc.sql' sequentially.
@@ -29,3 +33,6 @@ example: (12+8)/10
 Required Softwares to run the project:
 Oracle 10g.
 There is an instruction file to setup the invironment, to run the project.
+
+
+
