@@ -3,7 +3,7 @@ For network setting
 go to this location
 C:\oraclexe\app\oracle\product\10.2.0\server\NETWORK\ADMIN
 
-crate a backup file of listener.ora
+create a backup file of listener.ora
 and change the listener.ora file as given file.
 
 then restart the OracleXETNSListener service from
