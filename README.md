@@ -32,6 +32,7 @@ Then drag and drop the '.sql' files into the prompt and hit enter.
 
 **Required Softwares to run the project:**
 Oracle 10g.
+
 **NB: There is an instruction file to setup the invironment, to run the project.**
 
 
