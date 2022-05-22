@@ -1,5 +1,6 @@
 # calculator-site-server-plsql
 **Project Name: Postfix Notation with Actual Calculation**
+
 Project Member: Abir
 
 **Project Description:**
@@ -8,6 +9,8 @@ This app is built using PL/SQL.
 
 It uses postfix notation method to calculate
 a valid basic numeric expression.
+*It takes input from site and calculate the expression in server.*
+
 valid char : [(] [)] [+] [-] [*] [/] [any integer number]
 example: (12+8)/10
 
